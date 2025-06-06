@@ -60,5 +60,5 @@ torch>=2.0.0
 transformers>=4.30.0
 
 License
-MIT License © 2025 MARIA TSALAMIDA
+MIT License © 2025 mariatsalamida
  
