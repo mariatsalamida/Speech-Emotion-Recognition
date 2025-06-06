@@ -35,7 +35,7 @@ Key behaviors (inferred from the source code):
 2. **(Recommended) Create a virtual environment**
   python3 -m venv .venv
   .venv\Scripts\activate    # On Windows
-  # OR 
+  #OR 
   source .venv/bin/activate  # On Linux/macOS
  
 3. **Install dependencies**
