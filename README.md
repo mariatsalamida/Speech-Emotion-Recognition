@@ -1,4 +1,4 @@
-# Speech-Emotion-Recognition
+# Speech Emotion Recognition
 Real‐time speech emotion recognition using a pretrained Wav2Vec2 model with live waveform plotting
 **Note:** This repository contains a Python script that captures live microphone audio, continuously predicts the speaker’s emotion using a pretrained Wav2Vec2 model, and plots the audio waveform in real time with the current emotion as the title. The code was originally written as part of a master’s‐level exercise.
 ## Description
